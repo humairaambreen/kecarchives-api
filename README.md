@@ -211,3 +211,10 @@ vercel --prod
 ```
 
 Set all environment variables in the Vercel project dashboard before deploying.
+
+---
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
