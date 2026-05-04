@@ -1,8 +1,8 @@
 # KEC Archives — Backend API
 
-REST API for [KEC Archives](https://kecarchives.vercel.app), the official academic platform for Krishna Engineering College, Bhilai. Built with Python FastAPI.
+REST API for [KEC Archives](https://kecarchives.com), the official academic platform for Krishna Engineering College, Bhilai. Built with Python FastAPI.
 
-**Live API:** https://kec-api-pi.vercel.app  
+**Live API:** https://api.kecarchives.com  
 **Frontend repo:** https://github.com/humairaambreen/kecarchives-web  
 **Built by:** Humaira Ambreen
 
